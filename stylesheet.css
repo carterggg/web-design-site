@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'motion_controlbold';
+    src: url('fonts/motioncontrol-bold.eot');
+    src: url('fonts/motioncontrol-bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/motioncontrol-bold.woff2') format('woff2'),
+         url('fonts/motioncontrol-bold.woff') format('woff'),
+         url('fonts/motioncontrol-bold.ttf') format('truetype'),
+         url('fonts/motioncontrol-bold.svg#motion_controlbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

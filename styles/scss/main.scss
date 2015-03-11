@@ -1,0 +1,86 @@
+$main-color: black;
+$main-color2: white;
+$main-color3: #5dbaaf;
+$main-font: 'motion_controlbold';
+
+
+/* BASE */ 
+
+* {
+	margin: auto;
+	padding: auto;
+}
+
+body {
+	background-image: url('images/layout/background.gif');
+	background-color: #2e756b;
+	background-repeat: repeat;
+	font-family: $main-font !important;
+}
+
+nav ul li { 
+	color: black;
+	text-decoration: none;
+	display: inline;
+	list-style: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 3vw;
+}
+
+
+
+/* unvisited link */
+a:link {
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+	text-decoration: none;
+}
+
+/* LAYOUT */ 
+
+.align-center {
+	text-align: center;	
+}
+
+.light-background {
+	background-color: $main-color3;
+}
+
+/* MODULE */ 
+/* STATE */ 
+/* THEME */ 
+
+
+/* FORM */
+input,textarea {
+	display:block;
+	margin-bottom: 15px;
+	width: 100%;
+	border: black solid 1px;
+}
+
+label {
+	margin-bottom: 0px;	
+}
+
+.error{
+	color:blue;
+}
+
+form{
+	width:100%;
+}
