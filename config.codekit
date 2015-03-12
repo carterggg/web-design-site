@@ -86,6 +86,61 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/layout\/carter-a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/layout\/carter-a.png",
+		"outputAbbreviatedPath": "\/images\/layout\/carter-a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/con-tab.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2699,
+		"inputAbbreviatedPath": "\/images\/layout\/con-tab.png",
+		"outputAbbreviatedPath": "\/images\/layout\/con-tab.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/home-tab.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1763,
+		"inputAbbreviatedPath": "\/images\/layout\/home-tab.png",
+		"outputAbbreviatedPath": "\/images\/layout\/home-tab.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/port-tab.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3168,
+		"inputAbbreviatedPath": "\/images\/layout\/port-tab.png",
+		"outputAbbreviatedPath": "\/images\/layout\/port-tab.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/serv-tab.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2856,
+		"inputAbbreviatedPath": "\/images\/layout\/serv-tab.png",
+		"outputAbbreviatedPath": "\/images\/layout\/serv-tab.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/inc\/form.php": {
 		"fileType": 8192,
 		"ignore": 0,
