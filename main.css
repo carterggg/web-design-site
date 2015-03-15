@@ -12,7 +12,9 @@ body {
 nav ul li {
   text-decoration: none;
   display: inline-block;
-  list-style: none; }
+  list-style: none;
+  text-align: center;
+  margin: auto; }
 
 h1 {
   font-family: "PT Sans", sans-serif;
@@ -37,13 +39,39 @@ a:active {
 
 /* LAYOUT */
 .align-center {
-  text-align: center; }
+  text-align: center;
+  margin: auto; }
 
 .light-background {
   background-color: #5dbaaf; }
 
 .gif-background {
   background-image: url("images/layout/background.gif"); }
+
+.border {
+  border: solid 2px #2e756b;
+  padding: 5px;
+  background-clip: content-box;
+  /* support: IE9+ */
+  background-color: #5dbaaf;
+  width: 30%;
+  padding-top: 10px; }
+
+.nav-location {
+  float: right; }
+
+.mobile-nav {
+  color: white;
+  background-color: #5dbaaf;
+  width: 200px;
+  font-size: 2em;
+  margin-bottom: 10px;
+  padding-top: 6px; }
+
+.header-style {
+  font-size: 6em;
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700; }
 
 /* MODULE */
 /* STATE */
