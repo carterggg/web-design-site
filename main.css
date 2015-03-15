@@ -65,6 +65,21 @@ a:active {
   padding-bottom: 0px;
   padding-left: 5px; }
 
+.content-style {
+  color: white; }
+
+.content-link-style a {
+  color: white;
+  background-color: #2e756b;
+  padding-top: 3px;
+  padding-left: 5px;
+  padding-right: 5px; }
+
+.content-link-style a:hover {
+  color: white;
+  background-image: url("images/layout/background.gif");
+  text-decoration: none; }
+
 .border {
   border: solid 5px #2e756b;
   padding: 5px;
@@ -232,6 +247,9 @@ form {
   .border-mobile {
     border-bottom: solid 5px #2e756b;
     width: 60%; }
+
+  .main-nav {
+    font-size: 1em; }
 
   /* GALLERY STYLES */
   .grid {
