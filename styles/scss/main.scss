@@ -62,6 +62,10 @@ a:active {
 	margin: auto;
 }
 
+.align {
+	margin: auto;
+}
+
 .light-background {
 	background-color: $main-color3;
 }
@@ -177,7 +181,7 @@ a:active {
 
 .grid li {
 	display: inline-block;
-	width: 440px;
+	width: 840px;
 	margin: 0;
 	padding: 20px;
 	text-align: left;
@@ -216,7 +220,7 @@ a:active {
 	padding: 5px 10px;
 	border-radius: 2px;
 	display: inline-block;
-	background: $main-color4;
+	background-image: url('images/layout/background.gif');
 	color: $main-color2;
 	font-family: $main-font !important;
 }
@@ -283,12 +287,18 @@ input,textarea {
 	margin-bottom: 15px;
 	width: 100%;
 	border: black solid 1px;
+	font-family: $main-font;
 }
 
 label {
 	margin-bottom: 0px;	
+	color: $main-color2 !important;
+	font-size: 1.3em;
 }
 
+input {
+	background-color: $main-color2;	
+}
 .error{
 	color:blue;
 }
@@ -316,59 +326,4 @@ form{
 	font-size: 1em;
 }
 	
-	
-	/* GALLERY STYLES */
-
-.grid {
-	max-width: 1300px;
-	margin: 0 auto;
-	list-style: none;
-	text-align: center;
-}
-
-.grid li {
-	display: inline-block;
-	width: 300px;
-	margin: 0;
-	padding: 20px;
-	text-align: left;
-	position: relative;
-}
-
-.grid figure {
-	margin: 0;
-	position: relative;
-}
-
-.grid figure img {
-	max-width: 100%;
-	display: block;
-	position: relative;
-}
-
-.grid figcaption {
-	position: absolute;
-	top: 0;
-	left: 0;
-	padding: 20px;
-	background: $main-color3;
-	color: $main-color4;
-}
-
-.grid figcaption h3 {
-	margin: 0;
-	padding: 0;
-	color: $main-color2;
-	font-size: 1.3em;
-}
-
-.grid figcaption a {
-	text-align: center;
-	padding: 5px 10px;
-	border-radius: 2px;
-	display: inline-block;
-	background: $main-color4;
-	color: $main-color2;
-	font-family: $main-font !important;
-}	
 }

@@ -42,6 +42,9 @@ a:active {
   text-align: center;
   margin: auto; }
 
+.align {
+  margin: auto; }
+
 .light-background {
   background-color: #5dbaaf; }
 
@@ -140,7 +143,7 @@ a:active {
 
 .grid li {
   display: inline-block;
-  width: 440px;
+  width: 840px;
   margin: 0;
   padding: 20px;
   text-align: left;
@@ -173,7 +176,7 @@ a:active {
   padding: 5px 10px;
   border-radius: 2px;
   display: inline-block;
-  background: #2e756b;
+  background-image: url("images/layout/background.gif");
   color: white;
   font-family: "PT Sans", sans-serif !important; }
 
@@ -228,10 +231,16 @@ input, textarea {
   display: block;
   margin-bottom: 15px;
   width: 100%;
-  border: black solid 1px; }
+  border: black solid 1px;
+  font-family: "PT Sans", sans-serif; }
 
 label {
-  margin-bottom: 0px; }
+  margin-bottom: 0px;
+  color: white !important;
+  font-size: 1.3em; }
+
+input {
+  background-color: white; }
 
 .error {
   color: blue; }
@@ -249,51 +258,4 @@ form {
     width: 60%; }
 
   .main-nav {
-    font-size: 1em; }
-
-  /* GALLERY STYLES */
-  .grid {
-    max-width: 1300px;
-    margin: 0 auto;
-    list-style: none;
-    text-align: center; }
-
-  .grid li {
-    display: inline-block;
-    width: 300px;
-    margin: 0;
-    padding: 20px;
-    text-align: left;
-    position: relative; }
-
-  .grid figure {
-    margin: 0;
-    position: relative; }
-
-  .grid figure img {
-    max-width: 100%;
-    display: block;
-    position: relative; }
-
-  .grid figcaption {
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding: 20px;
-    background: #5dbaaf;
-    color: #2e756b; }
-
-  .grid figcaption h3 {
-    margin: 0;
-    padding: 0;
-    color: white;
-    font-size: 1.3em; }
-
-  .grid figcaption a {
-    text-align: center;
-    padding: 5px 10px;
-    border-radius: 2px;
-    display: inline-block;
-    background: #2e756b;
-    color: white;
-    font-family: "PT Sans", sans-serif !important; } }
+    font-size: 1em; } }

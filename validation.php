@@ -81,20 +81,10 @@ if(@$_POST['submitted'])
 		{
 		
 			// test to see if form data is received.
-			echo '<link rel="stylesheet" href="styles/css/main.css">';
+			echo '<link rel="stylesheet" href="main.css">';
 			echo '<link rel="stylesheet" href="stylesheet.css">';
 			echo '<div class="val-background">';
-			echo '<img src="images/layout/titleheader.png">';
-			echo "<h2 class='val-style'>Thank You, Carter Guthrie will get back to you soon.</h2>";
-			echo "<p>Your message has been sent. Below is the information you provided:</p>";
-			echo "<ul>";
-			echo "<li>".$name."</li>";
-			echo "<li>".$email."</li>";
-			echo "<li>".$message."</li>";
-			echo "</ul>";
-			echo "<br>";
-			echo "<a href=\"".REDIRECT_URL ."\">Go Back to Home Page</a>";
-			echo "<br>";
+			echo "<h2 class='val-style align-center content-style'>Thank You, I will get back to you soon.</h2>";
 			echo '</div>';
 			exit();
 		}
