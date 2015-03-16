@@ -16,7 +16,7 @@ nav ul li {
   text-align: center;
   margin: auto; }
 
-h1 {
+h1, h2 {
   font-family: "PT Sans", sans-serif;
   font-weight: 500 !important;
   color: white !important; }
@@ -129,6 +129,32 @@ a:active {
   padding-top: 3px;
   padding-bottom: 0px;
   padding-left: 5px; }
+
+.border-style {
+  border-bottom: solid 5px #2e756b;
+  padding-bottom: 5px;
+  width: 45%; }
+
+.special-link-style {
+  border-bottom: solid 4px white;
+  padding-bottom: 2px;
+  width: 45%;
+  color: white; }
+
+.special-link-style:hover {
+  border-bottom: solid 4px #2e756b;
+  padding-bottom: 2px;
+  width: 45%;
+  color: #2e756b;
+  text-decoration: none; }
+
+.links-style {
+  color: white;
+  text-decoration: underline !important; }
+
+.links-style:hover {
+  color: #2e756b;
+  text-decoration: underline !important; }
 
 /* MODULE */
 /* STATE */
