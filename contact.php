@@ -63,38 +63,31 @@
 	
 <!-- Content row -->	
 		<div class="row">
-		<div class="col-xs-1"></div>
-			<div class="col-xs-10 light-background">
+		<div class="col-xs-1 col-sm-3"></div>
+			<div class="col-xs-10 col-sm-6 light-background">
 				<br>	
 				
 	<div class="row">
-		<div class="col-xs-1 col-sm-2"></div>
-			<div class="col-xs-10 col-sm-8 align">
+		<div class="col-xs-1 col-sm-1"></div>
+			<div class="col-xs-10 col-sm-10 align">
 				<h1 class="align-center border mobile-header hidden-xs hidden-sm">CONTACT</h1>
    				<h1 class="align-center border-mobile mobile-header hidden-md hidden-lg">CONTACT</h1>
  				<br><br>
   					<?php include('inc/form.php'); ?>
   				<br><br><br>
   			</div>
-   		<div class="col-xs-1 col-sm-2"></div>	
+   		<div class="col-xs-1 col-sm-1"></div>	
    		<br>
    	</div>
+   	
+   	
 	</div>
+	<div class="col-xs-1 col-sm-3"></div>
 	</div>
 	
 	<br>
+	<br>	
 
-<!-- Footer Row -->			
-		<div class="row">
-			<div class="col-xs-1"></div>
-			<div class="col-xs-10 footer-body">
-				<h1><a href="index.html" title="Portfolio">PORTFOLIO</a></h1>
-				<h1><a href="contact.php" title="Contact">CONTACT</a></h1>
-				<h1><a href="services.html" title="Services">SERVICES</a></h1>
-				<h1><a href="http://carterguthrie.com" title="Carter Guthrie Graphic and Web Designer">CARTERGUTHRIE.COM</a></h1>
-			</div>
-			<div class="col-xs-1"></div>
-		</div>
 		
 		
 	</div>
