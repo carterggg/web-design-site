@@ -280,8 +280,14 @@ form {
     font-size: 2em; }
 
   .border-mobile {
-    border-bottom: solid 5px #2e756b;
+    border-bottom: solid 3px #2e756b;
     width: 60%; }
 
   .main-nav {
-    font-size: 1em; } }
+    font-size: 1em; }
+
+  .h2-mobile-style {
+    font-size: 1.3em; }
+
+  .border-style {
+    font-size: 1.8em; } }

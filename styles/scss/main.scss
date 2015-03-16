@@ -348,13 +348,21 @@ form{
 	}
 
 .border-mobile {
-  border-bottom: solid 5px $main-color4;
+  border-bottom: solid 3px $main-color4;
   width: 60%;
  	
 }
 	
 .main-nav {
 	font-size: 1em;
+}
+	
+.h2-mobile-style {
+	font-size:1.3em;
+}
+
+.border-style {
+	font-size: 1.8em;
 }
 	
 }
