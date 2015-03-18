@@ -108,6 +108,17 @@ a:active {
   font-family: "PT Sans", sans-serif;
   font-weight: 700; }
 
+.header-style a {
+  color: white !important;
+  font-family: "PT Sans", sans-serif !important;
+  font-size: 1em; }
+
+.header-style a:hover {
+  color: white !important;
+  font-family: "PT Sans", sans-serif !important;
+  text-decoration: none;
+  font-size: 1.1em; }
+
 .footer-body {
   background-color: #5dbaaf;
   font-size: 2em; }

@@ -138,6 +138,19 @@ a:active {
 	font-weight: 700;
 }
 
+.header-style a {
+	color: $main-color2 !important;
+	font-family: $main-font !important;
+	font-size: 1em;
+}
+
+.header-style a:hover {
+	color: $main-color2 !important;
+	font-family: $main-font !important;
+	text-decoration: none;
+	font-size: 1.1em;
+}
+
 .footer-body {
 	background-color: $main-color3;
 	font-size: 2em;

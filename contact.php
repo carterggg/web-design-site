@@ -54,7 +54,7 @@
 		<div class="col-sm-1"></div>
 		<div class="col-sm-10">
 			<br>
-			<h1 class="align-center header-style">WEB DESIGN</h1>
+			<h1 class="align-center header-style"><a href="index.html" title="Web Design: Carter Guthrie">WEB DESIGN</a></h1>
 			<br>
 		</div>
 		<div class="col-sm-1"></div>
