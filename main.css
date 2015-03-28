@@ -73,7 +73,7 @@ a:active {
 
 .content-link-style a {
   color: white;
-  background-color: #2e756b;
+  background-image: url("images/layout/background.gif");
   padding-top: 3px;
   padding-left: 5px;
   padding-right: 5px; }
