@@ -16,7 +16,7 @@ nav ul li {
   text-align: center;
   margin: auto; }
 
-h1, h2 {
+h1, h2, h3, h4 {
   font-family: "PT Sans", sans-serif;
   font-weight: 500 !important;
   color: white !important; }

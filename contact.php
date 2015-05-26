@@ -72,6 +72,11 @@
 			<div class="col-xs-10 col-sm-10 align">
 				<h1 class="align-center border mobile-header hidden-xs hidden-sm">CONTACT</h1>
    				<h1 class="align-center border-mobile mobile-header hidden-md hidden-lg">CONTACT</h1>
+   				<br>
+   				<h3 class="hidden-xs">Email: Carterthedesigner@gmail.com</h3>
+   				<h3 class="hidden-xs">Phone: (678)-326-9613</h3>
+   				<h4 class="hidden-sm hidden-md hidden-lg">Email: Carterthedesigner@gmail.com</h4>
+   				<h4 class="hidden-sm hidden-md hidden-lg">Phone: (678)-326-9613</h4>
  				<br><br>
   					<?php include('inc/form.php'); ?>
   				<br><br><br>
