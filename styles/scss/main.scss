@@ -14,8 +14,8 @@ $main-font: 'PT Sans', sans-serif;
 }
 
 body {
-	background-image: url('images/layout/background.png');
-	background-color: #2e756b;
+	background-image: url('images/layout/carterg-twined-painting.jpg');
+	background-color: black;
 	background-repeat: repeat;
 	font-family: $main-font !important;
 }
@@ -31,7 +31,7 @@ nav ul li {
 h1, h2, h3, h4 {
 	font-family: $main-font;
 	font-weight: 500 !important;
-	color: $main-color2 !important;
+	color: black !important;
 }
 
 /* unvisited link */
@@ -66,26 +66,26 @@ a:active {
 }
 
 .light-background {
-	background-color: $main-color3;
+	background-color: white;
 }
 
 .gif-background {
-	background-image: url('images/layout/background.gif');	
+	background-image: url('images/layout/carterg-twined-painting.jpg');	
 }
 
 .main-nav {
-	background-color: $main-color3;
+	background-color: white;
 	font-size: 1.5em;
 	padding-top: 8px;
 	padding-bottom: 1px;
 	padding-left: 9px;
 	padding-right: 9px;
-	color: $main-color2;
+	color: black;
 }
 
 .main-nav:hover {
-	color: $main-color2;
-	background-color: $main-color4;
+	color: white;
+	background-color: black;
 	text-decoration: none;
 	padding-top: 3px;
 	padding-bottom: 0px;
@@ -97,8 +97,8 @@ a:active {
 }
 
 .content-link-style a {
-	color: $main-color2;
-	background-image: url('images/layout/background.gif');
+	color: white;
+	background-color: black;
 	padding-top: 3px;
 	padding-left: 5px;
 	padding-right: 5px;
@@ -106,15 +106,15 @@ a:active {
 
 .content-link-style a:hover {
 	color: $main-color2;
-	background-image: url('images/layout/background.gif');
+	background-image: url('images/layout/carterg-twined-painting.jpg');
 	text-decoration: none;
 }
 
 .border {
-  border: solid 5px $main-color4;
+	border: 1px solid black;
   padding: 5px;
   background-clip: content-box; /* support: IE9+ */
-  background-color: $main-color3;
+  background-color: white;
   width: 30%;
   padding-top: 10px;	
 }
@@ -124,8 +124,8 @@ a:active {
 }
 
 .mobile-nav {
-	color:$main-color2;
-	background-color: $main-color3;
+	color:black;
+	background-color: white;
 	width: 200px;
 	font-size: 2em;
 	margin-bottom: 10px;
@@ -145,32 +145,32 @@ a:active {
 }
 
 .header-style a:hover {
-	color: $main-color2 !important;
+	color: black !important;
 	font-family: $main-font !important;
 	text-decoration: none;
 	font-size: 1.1em;
 }
 
 .footer-body {
-	background-color: $main-color3;
+	background-color: black;
 	font-size: 2em;
 }
 
 .footer-body h1 {
 	font-size: .8em;
-	background-image: url('images/layout/background.gif');	
+	background-image: url('images/layout/carterg-twined-painting.jpg');	
 	padding-top: 5px;
 	padding-bottom: 2px;
 	padding-left: 5px;
 }
 
 .footer-body a {
-	color: $main-color2;
+	color: black;
 }
 
 .footer-body a:hover {
-	color: $main-color2;
-	background-color: $main-color4;
+	color: black;
+	background-color: white;
 	text-decoration: none;
 	padding-top: 3px;
 	padding-bottom: 0px;
@@ -178,7 +178,7 @@ a:active {
 }
 
 .border-style {
- 	 border-bottom: solid 5px $main-color4;
+ 	 border-bottom: solid 5px black;
 	padding-bottom: 5px;
  	 width: 45%;
 }
@@ -191,21 +191,22 @@ a:active {
 }
 
 .special-link-style:hover {
-	border-bottom: solid 4px $main-color4;
+	border-bottom: solid 4px black;
 	padding-bottom: 2px;
  	width: 45%;
-	color: $main-color4;
+	color: blacks;
 	text-decoration: none;
 }
 	
 
 .links-style {
-	color: $main-color2;
+	color: black;
 	text-decoration: underline !important;
 }
 
 .links-style:hover {
-	color: $main-color4;
+	color: black;
+	border: 1px solid black;
 	text-decoration: underline !important;
 }
 
@@ -248,15 +249,15 @@ a:active {
 	top: 0;
 	left: 0;
 	padding: 20px;
-	background: $main-color3;
-	color: $main-color4;
+	background: white;
+	color: black;
 	
 }
 
 .grid figcaption h3 {
 	margin: 0;
 	padding: 0;
-	color: $main-color2;
+	color: black !important;
 }
 
 .grid figcaption a {
@@ -264,7 +265,8 @@ a:active {
 	padding: 5px 10px;
 	border-radius: 2px;
 	display: inline-block;
-	background-image: url('images/layout/background.gif');
+	background-color: black;
+	
 	color: $main-color2;
 	font-family: $main-font !important;
 }
@@ -361,7 +363,7 @@ form{
 	}
 
 .border-mobile {
-  border-bottom: solid 3px $main-color4;
+  border-bottom: solid 3px black;
   width: 60%;
  	
 }

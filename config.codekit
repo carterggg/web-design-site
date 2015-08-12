@@ -97,6 +97,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/gallery\/andrewlambertson.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.08769e+06,
+		"inputAbbreviatedPath": "\/images\/gallery\/andrewlambertson.png",
+		"outputAbbreviatedPath": "\/images\/gallery\/andrewlambertson.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/gallery\/bob.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -119,6 +130,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/gallery\/datendashllc.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.4304e+06,
+		"inputAbbreviatedPath": "\/images\/gallery\/datendashllc.png",
+		"outputAbbreviatedPath": "\/images\/gallery\/datendashllc.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/gallery\/dreamwood.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -126,6 +148,17 @@
 		"initialSize": 1.15391e+06,
 		"inputAbbreviatedPath": "\/images\/gallery\/dreamwood.png",
 		"outputAbbreviatedPath": "\/images\/gallery\/dreamwood.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/gallery\/eliteremodeling.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.14979e+06,
+		"inputAbbreviatedPath": "\/images\/gallery\/eliteremodeling.png",
+		"outputAbbreviatedPath": "\/images\/gallery\/eliteremodeling.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -185,6 +218,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/gallery\/photo-video.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 848792,
+		"inputAbbreviatedPath": "\/images\/gallery\/photo-video.png",
+		"outputAbbreviatedPath": "\/images\/gallery\/photo-video.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/gallery\/radio.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -225,6 +269,17 @@
 		"initialSize": 6058,
 		"inputAbbreviatedPath": "\/images\/layout\/carter-tab.png",
 		"outputAbbreviatedPath": "\/images\/layout\/carter-tab.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/carterg-twined-painting.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.68873e+06,
+		"inputAbbreviatedPath": "\/images\/layout\/carterg-twined-painting.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/carterg-twined-painting.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

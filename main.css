@@ -4,8 +4,8 @@
   padding: auto; }
 
 body {
-  background-image: url("images/layout/background.png");
-  background-color: #2e756b;
+  background-image: url("images/layout/carterg-twined-painting.jpg");
+  background-color: black;
   background-repeat: repeat;
   font-family: "PT Sans", sans-serif !important; }
 
@@ -19,7 +19,7 @@ nav ul li {
 h1, h2, h3, h4 {
   font-family: "PT Sans", sans-serif;
   font-weight: 500 !important;
-  color: white !important; }
+  color: black !important; }
 
 /* unvisited link */
 a:link {
@@ -46,23 +46,23 @@ a:active {
   margin: auto; }
 
 .light-background {
-  background-color: #5dbaaf; }
+  background-color: white; }
 
 .gif-background {
-  background-image: url("images/layout/background.gif"); }
+  background-image: url("images/layout/carterg-twined-painting.jpg"); }
 
 .main-nav {
-  background-color: #5dbaaf;
+  background-color: white;
   font-size: 1.5em;
   padding-top: 8px;
   padding-bottom: 1px;
   padding-left: 9px;
   padding-right: 9px;
-  color: white; }
+  color: black; }
 
 .main-nav:hover {
   color: white;
-  background-color: #2e756b;
+  background-color: black;
   text-decoration: none;
   padding-top: 3px;
   padding-bottom: 0px;
@@ -73,22 +73,22 @@ a:active {
 
 .content-link-style a {
   color: white;
-  background-image: url("images/layout/background.gif");
+  background-color: black;
   padding-top: 3px;
   padding-left: 5px;
   padding-right: 5px; }
 
 .content-link-style a:hover {
   color: white;
-  background-image: url("images/layout/background.gif");
+  background-image: url("images/layout/carterg-twined-painting.jpg");
   text-decoration: none; }
 
 .border {
-  border: solid 5px #2e756b;
+  border: 1px solid black;
   padding: 5px;
   background-clip: content-box;
   /* support: IE9+ */
-  background-color: #5dbaaf;
+  background-color: white;
   width: 30%;
   padding-top: 10px; }
 
@@ -96,8 +96,8 @@ a:active {
   float: right; }
 
 .mobile-nav {
-  color: white;
-  background-color: #5dbaaf;
+  color: black;
+  background-color: white;
   width: 200px;
   font-size: 2em;
   margin-bottom: 10px;
@@ -114,35 +114,35 @@ a:active {
   font-size: 1em; }
 
 .header-style a:hover {
-  color: white !important;
+  color: black !important;
   font-family: "PT Sans", sans-serif !important;
   text-decoration: none;
   font-size: 1.1em; }
 
 .footer-body {
-  background-color: #5dbaaf;
+  background-color: black;
   font-size: 2em; }
 
 .footer-body h1 {
   font-size: .8em;
-  background-image: url("images/layout/background.gif");
+  background-image: url("images/layout/carterg-twined-painting.jpg");
   padding-top: 5px;
   padding-bottom: 2px;
   padding-left: 5px; }
 
 .footer-body a {
-  color: white; }
+  color: black; }
 
 .footer-body a:hover {
-  color: white;
-  background-color: #2e756b;
+  color: black;
+  background-color: white;
   text-decoration: none;
   padding-top: 3px;
   padding-bottom: 0px;
   padding-left: 5px; }
 
 .border-style {
-  border-bottom: solid 5px #2e756b;
+  border-bottom: solid 5px black;
   padding-bottom: 5px;
   width: 45%; }
 
@@ -153,18 +153,19 @@ a:active {
   color: white; }
 
 .special-link-style:hover {
-  border-bottom: solid 4px #2e756b;
+  border-bottom: solid 4px black;
   padding-bottom: 2px;
   width: 45%;
-  color: #2e756b;
+  color: blacks;
   text-decoration: none; }
 
 .links-style {
-  color: white;
+  color: black;
   text-decoration: underline !important; }
 
 .links-style:hover {
-  color: #2e756b;
+  color: black;
+  border: 1px solid black;
   text-decoration: underline !important; }
 
 /* MODULE */
@@ -200,20 +201,20 @@ a:active {
   top: 0;
   left: 0;
   padding: 20px;
-  background: #5dbaaf;
-  color: #2e756b; }
+  background: white;
+  color: black; }
 
 .grid figcaption h3 {
   margin: 0;
   padding: 0;
-  color: white; }
+  color: black !important; }
 
 .grid figcaption a {
   text-align: center;
   padding: 5px 10px;
   border-radius: 2px;
   display: inline-block;
-  background-image: url("images/layout/background.gif");
+  background-color: black;
   color: white;
   font-family: "PT Sans", sans-serif !important; }
 
@@ -291,7 +292,7 @@ form {
     font-size: 2em; }
 
   .border-mobile {
-    border-bottom: solid 3px #2e756b;
+    border-bottom: solid 3px black;
     width: 60%; }
 
   .main-nav {
